@@ -24,3 +24,10 @@ https://github.com/smutneja03/Coursera-Algorithms_Part1
 2. Insertion Sort
 3. Shell Sort
 4. Convex Hull
+### Week 3 Mergesort && Quicksort:
+1. Mergesort
+###### Additional resource:
+* https://en.wikibooks.org/wiki/Algorithm_Implementation/Sorting/Merge_sort#Python
+2. Quicksort
+###### Additional resource:
+* https://en.wikibooks.org/wiki/Algorithm_Implementation/Sorting/Quicksort#Python
