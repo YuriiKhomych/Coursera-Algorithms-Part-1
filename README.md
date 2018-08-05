@@ -19,3 +19,8 @@ https://github.com/smutneja03/Coursera-Algorithms_Part1
 ###### Additional resource:
 * https://medium.com/@kojinoshiba/data-structures-in-python-series-1-linked-lists-d9f848537b4d
 * https://medium.com/@kojinoshiba/data-structures-in-python-series-2-stacks-queues-8e2a1703d67b
+#### Elementary Sorts
+1. Selection Sort
+2. Insertion Sort
+3. Shell Sort
+4. Convex Hull
