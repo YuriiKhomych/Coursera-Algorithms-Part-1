@@ -11,3 +11,11 @@ https://github.com/smutneja03/Coursera-Algorithms_Part1
 4. Weighted Quick Union Path Compression
 * Test quickfind algorithms
 * Test runtime
+### Week 2 Stacks and Queues && Elementary Sorts:
+#### Stacks and Queues
+1. Stack
+2. Queue
+3. Linked list
+###### Additional resource:
+* https://medium.com/@kojinoshiba/data-structures-in-python-series-1-linked-lists-d9f848537b4d
+* https://medium.com/@kojinoshiba/data-structures-in-python-series-2-stacks-queues-8e2a1703d67b
